@@ -1,0 +1,11 @@
+1100 Diego
+400 Felipe
+400 Joel
+100 Andres
+2600 Laura
+2600 Fernanda
+400 Luisa
+0 kike
+400 Camila
+400 Ana
+6000 Sofia
